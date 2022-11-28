@@ -10,6 +10,6 @@ https://ieeexplore.ieee.org/abstract/document/9105003
 MOGBHS is interfaced with the Aimsun simulator via the API (Application Programming Interface) that
 allows reading of calibration parameters at each step of algorithm.
 
-For earlier work regarding the calibration of microscopic traffic-flow simulation models check out the followong papers:
+For earlier work regarding the calibration of microscopic traffic-flow simulation models check out the followong paper:
 
 Paz, Alexander, Victor Molano, Ember Martinez, Carlos Gaviria, and Cristian Arteaga. "Calibration of traffic flow models using a memetic algorithm." Transportation Research Part C: Emerging Technologies 55 (2015): 432-443. (https://www.sciencedirect.com/science/article/pii/S0968090X15000807)
